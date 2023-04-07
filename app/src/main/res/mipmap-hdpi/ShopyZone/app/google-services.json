@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "91731241643",
+    "firebase_url": "https://fir-crud-app-6ea3a-default-rtdb.firebaseio.com",
+    "project_id": "fir-crud-app-6ea3a",
+    "storage_bucket": "fir-crud-app-6ea3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91731241643:android:c548796aaad3aacb57e5ee",
+        "android_client_info": {
+          "package_name": "com.surya.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91731241643-4qta84soalm0v9v8nl4f699br30fg0jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLN1kSrnibB-142oJNJv42vF2WQ7_PTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91731241643-4qta84soalm0v9v8nl4f699br30fg0jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91731241643:android:6f4529dbf017319257e5ee",
+        "android_client_info": {
+          "package_name": "com.surya.shopyzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91731241643-4qta84soalm0v9v8nl4f699br30fg0jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLN1kSrnibB-142oJNJv42vF2WQ7_PTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91731241643-4qta84soalm0v9v8nl4f699br30fg0jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

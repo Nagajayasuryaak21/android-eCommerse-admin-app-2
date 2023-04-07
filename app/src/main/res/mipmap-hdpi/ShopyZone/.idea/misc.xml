@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/drawable/custom_button_back.xml" value="0.1" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/drawable/ic_dd.xml" value="0.1" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/drawable/progress_back.xml" value="0.1" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/drawable/round_drawble.xml" value="0.1" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/activity_login.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/activity_my_orders.xml" value="0.1" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/activity_registration.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/activity_view_product.xml" value="0.16129032258064516" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/bottom_sheet_dialog_orders.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/course_rv_item.xml" value="0.1206896551724138" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/layout/myorders.xml" value="0.140625" />
+        <entry key="..\:/Users/Surya K/AndroidStudioProjects/ShopyZone/app/src/main/res/menu/menu_main.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

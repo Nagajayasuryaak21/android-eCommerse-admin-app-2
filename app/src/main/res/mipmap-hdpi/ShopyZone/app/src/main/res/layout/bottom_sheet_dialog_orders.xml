@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/blue_shade_1"
+    android:layout_height="wrap_content"
+    android:id="@+id/idRLBSheet2">
+    <TextView
+        android:id="@+id/idTVCourseName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:padding="4dp"
+        android:text="Course Name"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/idIVCourse"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:layout_below="@+id/idTVCourseName"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/ic_launcher"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:id="@+id/idTVDescription"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@+id/idIVCourse"
+        android:layout_below="@+id/idTVCourseName"
+        android:padding="3dp"
+        android:layout_margin="4dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Suited for"
+        android:id="@+id/idTVSuitedFor"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@+id/idIVCourse"
+        android:layout_below="@+id/idTVDescription"
+        android:padding="3dp"
+        android:layout_margin="4dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Price"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:id="@+id/idTVPrice"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@+id/idIVCourse"
+        android:layout_below="@+id/idTVSuitedFor"
+        android:padding="3dp"
+        android:layout_margin="4dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idIVCourse"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <Button
+            android:id="@+id/idBtnEdit"
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:text="View Details"
+            android:textAllCaps="false"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/idViewDetails"
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:text="Cancel Order"
+            android:textAllCaps="false"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</RelativeLayout>
